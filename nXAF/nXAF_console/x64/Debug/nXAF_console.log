@@ -1,0 +1,233 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: Katalog pośredni (x64\Debug\) zawiera pliki udostępnione z innego projektu (nXAF_console.vcxproj). Może to spowodować niepoprawne zachowanie podczas oczyszczania i ponownej kompilacji.
+  compressed_file.cpp
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(225,9): warning C4101: "temp": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(318,9): warning C4101: "temp": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(494,61): warning C4244: "argument": konwersja z "unsigned __int64" do "unsigned int", możliwa utrata danych
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(494,35): warning C4244: "argument": konwersja z "unsigned __int64" do "unsigned int", możliwa utrata danych
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(512,12): warning C4477: „wprintf”: ciąg formatu „%.*s” wymaga argumentu typu „int”, ale argument 1 ze zmienną liczbą argumentów ma typ „unsigned __int64”
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(512,12): message : ten argument jest używany jako dokładność
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(526,14): warning C4477: „wprintf”: ciąg formatu „%.*s” wymaga argumentu typu „int”, ale argument 2 ze zmienną liczbą argumentów ma typ „unsigned __int64”
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(526,14): message : ten argument jest używany jako dokładność
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(602,59): warning C4244: "argument": konwersja z "unsigned __int64" do "unsigned int", możliwa utrata danych
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(602,33): warning C4244: "argument": konwersja z "unsigned __int64" do "unsigned int", możliwa utrata danych
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(603,11): warning C4477: „wprintf”: ciąg formatu „%.*s” wymaga argumentu typu „int”, ale argument 1 ze zmienną liczbą argumentów ma typ „unsigned __int64”
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(603,11): message : ten argument jest używany jako dokładność
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(661,45): warning C4244: "argument": konwersja z "unsigned __int64" do "unsigned int", możliwa utrata danych
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(660,69): warning C4244: "argument": konwersja z "unsigned __int64" do "unsigned int", możliwa utrata danych
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(690,14): warning C4477: „wprintf”: ciąg formatu „%.*s” wymaga argumentu typu „int”, ale argument 2 ze zmienną liczbą argumentów ma typ „unsigned __int64”
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(690,14): message : ten argument jest używany jako dokładność
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(796,44): warning C4244: "argument": konwersja z "unsigned __int64" do "unsigned int", możliwa utrata danych
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(795,68): warning C4244: "argument": konwersja z "unsigned __int64" do "unsigned int", możliwa utrata danych
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(886,45): warning C4244: "argument": konwersja z "unsigned __int64" do "unsigned int", możliwa utrata danych
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(885,69): warning C4244: "argument": konwersja z "unsigned __int64" do "unsigned int", możliwa utrata danych
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(905,10): warning C4244: "inicjowanie": konwersja z "unsigned __int64" do "unsigned int", możliwa utrata danych
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(908,31): warning C4244: "=": konwersja z "unsigned __int64" do "unsigned int", możliwa utrata danych
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(914,14): warning C4477: „wprintf”: ciąg formatu „%.*s” wymaga argumentu typu „int”, ale argument 2 ze zmienną liczbą argumentów ma typ „unsigned __int64”
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(914,14): message : ten argument jest używany jako dokładność
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(1036,44): warning C4244: "argument": konwersja z "unsigned __int64" do "unsigned int", możliwa utrata danych
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(1035,68): warning C4244: "argument": konwersja z "unsigned __int64" do "unsigned int", możliwa utrata danych
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(1118,10): warning C4244: "inicjowanie": konwersja z "unsigned __int64" do "unsigned int", możliwa utrata danych
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(1121,31): warning C4244: "=": konwersja z "unsigned __int64" do "unsigned int", możliwa utrata danych
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(1127,14): warning C4477: „wprintf”: ciąg formatu „%.*s” wymaga argumentu typu „int”, ale argument 2 ze zmienną liczbą argumentów ma typ „unsigned __int64”
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(1127,14): message : ten argument jest używany jako dokładność
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(1189,29): warning C4244: "argument": konwersja z "unsigned __int64" do "unsigned int", możliwa utrata danych
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(1201,11): warning C4477: „wprintf”: ciąg formatu „%.*s” wymaga argumentu typu „int”, ale argument 1 ze zmienną liczbą argumentów ma typ „unsigned __int64”
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(1201,11): message : ten argument jest używany jako dokładność
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(1248,12): warning C4477: „wprintf”: ciąg formatu „%.*s” wymaga argumentu typu „int”, ale argument 1 ze zmienną liczbą argumentów ma typ „size_t”
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(1248,12): message : ten argument jest używany jako dokładność
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(1263,14): warning C4477: „wprintf”: ciąg formatu „%.*s” wymaga argumentu typu „int”, ale argument 2 ze zmienną liczbą argumentów ma typ „unsigned __int64”
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(1263,14): message : ten argument jest używany jako dokładność
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(1372,11): warning C4477: „wprintf”: ciąg formatu „%.*s” wymaga argumentu typu „int”, ale argument 1 ze zmienną liczbą argumentów ma typ „unsigned __int64”
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(1372,11): message : ten argument jest używany jako dokładność
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(1762,10): warning C4244: "inicjowanie": konwersja z "unsigned __int64" do "unsigned int", możliwa utrata danych
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(1812,10): warning C4477: „printf”: ciąg formatu „%u” wymaga argumentu typu „unsigned int”, ale argument 1 ze zmienną liczbą argumentów ma typ „unsigned __int64”
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(1812,10): message : rozważ użycie elementu „%llu” w ciągu formatu
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(1812,10): message : rozważ użycie elementu „%Iu” w ciągu formatu
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(1812,10): message : rozważ użycie elementu „%I64u” w ciągu formatu
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(1812,10): warning C4477: „printf”: ciąg formatu „%u” wymaga argumentu typu „unsigned int”, ale argument 2 ze zmienną liczbą argumentów ma typ „unsigned __int64”
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(1812,10): message : rozważ użycie elementu „%llu” w ciągu formatu
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(1812,10): message : rozważ użycie elementu „%Iu” w ciągu formatu
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(1812,10): message : rozważ użycie elementu „%I64u” w ciągu formatu
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(1837,13): warning C4477: „wprintf”: ciąg formatu „%.*s” wymaga argumentu typu „int”, ale argument 1 ze zmienną liczbą argumentów ma typ „unsigned __int64”
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(1837,13): message : ten argument jest używany jako dokładność
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(1837,13): warning C4477: „wprintf”: ciąg formatu „%u” wymaga argumentu typu „unsigned int”, ale argument 3 ze zmienną liczbą argumentów ma typ „unsigned __int64”
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(1837,13): message : rozważ użycie elementu „%llu” w ciągu formatu
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(1837,13): message : rozważ użycie elementu „%Iu” w ciągu formatu
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(1837,13): message : rozważ użycie elementu „%I64u” w ciągu formatu
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(1847,13): warning C4477: „wprintf”: ciąg formatu „%.*s” wymaga argumentu typu „int”, ale argument 1 ze zmienną liczbą argumentów ma typ „unsigned __int64”
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(1847,13): message : ten argument jest używany jako dokładność
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(1847,13): warning C4477: „wprintf”: ciąg formatu „%u” wymaga argumentu typu „unsigned int”, ale argument 3 ze zmienną liczbą argumentów ma typ „unsigned __int64”
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(1847,13): message : rozważ użycie elementu „%llu” w ciągu formatu
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(1847,13): message : rozważ użycie elementu „%Iu” w ciągu formatu
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(1847,13): message : rozważ użycie elementu „%I64u” w ciągu formatu
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(1847,13): warning C4477: „wprintf”: ciąg formatu „%u” wymaga argumentu typu „unsigned int”, ale argument 4 ze zmienną liczbą argumentów ma typ „unsigned __int64”
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(1847,13): message : rozważ użycie elementu „%llu” w ciągu formatu
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(1847,13): message : rozważ użycie elementu „%Iu” w ciągu formatu
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(1847,13): message : rozważ użycie elementu „%I64u” w ciągu formatu
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(1874,11): warning C4477: „printf”: ciąg formatu „%u” wymaga argumentu typu „unsigned int”, ale argument 1 ze zmienną liczbą argumentów ma typ „unsigned __int64”
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(1874,11): message : rozważ użycie elementu „%llu” w ciągu formatu
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(1874,11): message : rozważ użycie elementu „%Iu” w ciągu formatu
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(1874,11): message : rozważ użycie elementu „%I64u” w ciągu formatu
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(1874,11): warning C4477: „printf”: ciąg formatu „%u” wymaga argumentu typu „unsigned int”, ale argument 2 ze zmienną liczbą argumentów ma typ „unsigned __int64”
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(1874,11): message : rozważ użycie elementu „%llu” w ciągu formatu
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(1874,11): message : rozważ użycie elementu „%Iu” w ciągu formatu
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(1874,11): message : rozważ użycie elementu „%I64u” w ciągu formatu
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(1899,13): warning C4477: „wprintf”: ciąg formatu „%.*s” wymaga argumentu typu „int”, ale argument 1 ze zmienną liczbą argumentów ma typ „unsigned __int64”
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(1899,13): message : ten argument jest używany jako dokładność
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(1899,13): warning C4477: „wprintf”: ciąg formatu „%u” wymaga argumentu typu „unsigned int”, ale argument 3 ze zmienną liczbą argumentów ma typ „unsigned __int64”
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(1899,13): message : rozważ użycie elementu „%llu” w ciągu formatu
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(1899,13): message : rozważ użycie elementu „%Iu” w ciągu formatu
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(1899,13): message : rozważ użycie elementu „%I64u” w ciągu formatu
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(1900,12): warning C4477: „printf”: ciąg formatu „%.*s” wymaga argumentu typu „char *”, ale argument 2 ze zmienną liczbą argumentów ma typ „void *”
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(1900,12): message : ten argument jest używany na potrzeby specyfikatora konwersji
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(1900,12): warning C4477: „printf”: ciąg formatu „%.*s” wymaga argumentu typu „int”, ale argument 1 ze zmienną liczbą argumentów ma typ „unsigned __int64”
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(1900,12): message : ten argument jest używany jako dokładność
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(1917,13): warning C4477: „wprintf”: ciąg formatu „%.*s” wymaga argumentu typu „int”, ale argument 1 ze zmienną liczbą argumentów ma typ „unsigned __int64”
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(1917,13): message : ten argument jest używany jako dokładność
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(1917,13): warning C4477: „wprintf”: ciąg formatu „%u” wymaga argumentu typu „unsigned int”, ale argument 3 ze zmienną liczbą argumentów ma typ „unsigned __int64”
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(1917,13): message : rozważ użycie elementu „%llu” w ciągu formatu
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(1917,13): message : rozważ użycie elementu „%Iu” w ciągu formatu
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(1917,13): message : rozważ użycie elementu „%I64u” w ciągu formatu
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(1917,13): warning C4477: „wprintf”: ciąg formatu „%u” wymaga argumentu typu „unsigned int”, ale argument 4 ze zmienną liczbą argumentów ma typ „unsigned __int64”
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(1917,13): message : rozważ użycie elementu „%llu” w ciągu formatu
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(1917,13): message : rozważ użycie elementu „%Iu” w ciągu formatu
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(1917,13): message : rozważ użycie elementu „%I64u” w ciągu formatu
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(1974,18): warning C4477: „wprintf”: ciąg formatu „%.*s” wymaga argumentu typu „int”, ale argument 1 ze zmienną liczbą argumentów ma typ „unsigned __int64”
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(1974,18): message : ten argument jest używany jako dokładność
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(1983,17): warning C4477: „wprintf”: ciąg formatu „%.*s” wymaga argumentu typu „int”, ale argument 1 ze zmienną liczbą argumentów ma typ „unsigned __int64”
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(1983,17): message : ten argument jest używany jako dokładność
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(1948,26): warning C4101: "next": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(2040,18): warning C4477: „wprintf”: ciąg formatu „%.*s” wymaga argumentu typu „int”, ale argument 1 ze zmienną liczbą argumentów ma typ „unsigned __int64”
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(2040,18): message : ten argument jest używany jako dokładność
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(2049,17): warning C4477: „wprintf”: ciąg formatu „%.*s” wymaga argumentu typu „int”, ale argument 1 ze zmienną liczbą argumentów ma typ „unsigned __int64”
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(2049,17): message : ten argument jest używany jako dokładność
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(2018,30): warning C4101: "next": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(2167,39): warning C4244: "=": konwersja z "unsigned __int64" do "unsigned char", możliwa utrata danych
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(2196,46): warning C4244: "=": konwersja z "unsigned __int64" do "unsigned char", możliwa utrata danych
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(2157,20): warning C4101: "xpr_ptr": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(2302,18): warning C4244: "=": konwersja z "__int64" do "int", możliwa utrata danych
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(2415,18): warning C4244: "=": konwersja z "__int64" do "int", możliwa utrata danych
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(2508,30): warning C4477: „printf”: ciąg formatu „%u” wymaga argumentu typu „unsigned int”, ale argument 1 ze zmienną liczbą argumentów ma typ „unsigned __int64”
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(2508,30): message : rozważ użycie elementu „%llu” w ciągu formatu
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(2508,30): message : rozważ użycie elementu „%Iu” w ciągu formatu
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(2508,30): message : rozważ użycie elementu „%I64u” w ciągu formatu
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(2508,30): warning C4477: „printf”: ciąg formatu „%u” wymaga argumentu typu „unsigned int”, ale argument 2 ze zmienną liczbą argumentów ma typ „unsigned __int64”
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(2508,30): message : rozważ użycie elementu „%llu” w ciągu formatu
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(2508,30): message : rozważ użycie elementu „%Iu” w ciągu formatu
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(2508,30): message : rozważ użycie elementu „%I64u” w ciągu formatu
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(2634,28): warning C4477: „printf”: ciąg formatu „%u” wymaga argumentu typu „unsigned int”, ale argument 1 ze zmienną liczbą argumentów ma typ „unsigned __int64”
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(2634,28): message : rozważ użycie elementu „%llu” w ciągu formatu
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(2634,28): message : rozważ użycie elementu „%Iu” w ciągu formatu
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(2634,28): message : rozważ użycie elementu „%I64u” w ciągu formatu
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(2634,28): warning C4477: „printf”: ciąg formatu „%u” wymaga argumentu typu „unsigned int”, ale argument 2 ze zmienną liczbą argumentów ma typ „unsigned __int64”
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(2634,28): message : rozważ użycie elementu „%llu” w ciągu formatu
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(2634,28): message : rozważ użycie elementu „%Iu” w ciągu formatu
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(2634,28): message : rozważ użycie elementu „%I64u” w ciągu formatu
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(2742,18): warning C4244: "inicjowanie": konwersja z "unsigned __int64" do "unsigned int", możliwa utrata danych
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(2778,30): warning C4477: „printf”: ciąg formatu „%u” wymaga argumentu typu „unsigned int”, ale argument 1 ze zmienną liczbą argumentów ma typ „unsigned __int64”
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(2778,30): message : rozważ użycie elementu „%llu” w ciągu formatu
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(2778,30): message : rozważ użycie elementu „%Iu” w ciągu formatu
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(2778,30): message : rozważ użycie elementu „%I64u” w ciągu formatu
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(2778,30): warning C4477: „printf”: ciąg formatu „%u” wymaga argumentu typu „unsigned int”, ale argument 2 ze zmienną liczbą argumentów ma typ „unsigned __int64”
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(2778,30): message : rozważ użycie elementu „%llu” w ciągu formatu
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(2778,30): message : rozważ użycie elementu „%Iu” w ciągu formatu
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(2778,30): message : rozważ użycie elementu „%I64u” w ciągu formatu
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(2843,20): warning C4244: "=": konwersja z "unsigned __int64" do "unsigned int", możliwa utrata danych
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(2908,30): warning C4477: „printf”: ciąg formatu „%u” wymaga argumentu typu „unsigned int”, ale argument 1 ze zmienną liczbą argumentów ma typ „unsigned __int64”
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(2908,30): message : rozważ użycie elementu „%llu” w ciągu formatu
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(2908,30): message : rozważ użycie elementu „%Iu” w ciągu formatu
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(2908,30): message : rozważ użycie elementu „%I64u” w ciągu formatu
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(2908,30): warning C4477: „printf”: ciąg formatu „%u” wymaga argumentu typu „unsigned int”, ale argument 2 ze zmienną liczbą argumentów ma typ „unsigned __int64”
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(2908,30): message : rozważ użycie elementu „%llu” w ciągu formatu
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(2908,30): message : rozważ użycie elementu „%Iu” w ciągu formatu
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(2908,30): message : rozważ użycie elementu „%I64u” w ciągu formatu
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(3091,39): warning C4244: "argument": konwersja z "unsigned __int64" do "unsigned int", możliwa utrata danych
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(3090,63): warning C4244: "argument": konwersja z "unsigned __int64" do "unsigned int", możliwa utrata danych
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(3347,12): warning C4477: „wprintf”: ciąg formatu „%.*s” wymaga argumentu typu „int”, ale argument 1 ze zmienną liczbą argumentów ma typ „unsigned __int64”
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(3347,12): message : ten argument jest używany jako dokładność
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(3418,9): warning C4101: "temp": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(4336,10): warning C4477: „wprintf”: ciąg formatu „%.*s” wymaga argumentu typu „int”, ale argument 1 ze zmienną liczbą argumentów ma typ „unsigned __int64”
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(4336,10): message : ten argument jest używany jako dokładność
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(4336,10): warning C4477: „wprintf”: ciąg formatu „%u” wymaga argumentu typu „unsigned int”, ale argument 3 ze zmienną liczbą argumentów ma typ „unsigned __int64”
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(4336,10): message : rozważ użycie elementu „%llu” w ciągu formatu
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(4336,10): message : rozważ użycie elementu „%Iu” w ciągu formatu
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(4336,10): message : rozważ użycie elementu „%I64u” w ciągu formatu
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(4336,10): warning C4477: „wprintf”: ciąg formatu „%u” wymaga argumentu typu „unsigned int”, ale argument 4 ze zmienną liczbą argumentów ma typ „unsigned __int64”
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(4336,10): message : rozważ użycie elementu „%llu” w ciągu formatu
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(4336,10): message : rozważ użycie elementu „%Iu” w ciągu formatu
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(4336,10): message : rozważ użycie elementu „%I64u” w ciągu formatu
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(4361,12): warning C4477: „wprintf”: ciąg formatu „%.*s” wymaga argumentu typu „int”, ale argument 1 ze zmienną liczbą argumentów ma typ „unsigned __int64”
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(4361,12): message : ten argument jest używany jako dokładność
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(4361,12): warning C4477: „wprintf”: ciąg formatu „%u” wymaga argumentu typu „unsigned int”, ale argument 3 ze zmienną liczbą argumentów ma typ „unsigned __int64”
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(4361,12): message : rozważ użycie elementu „%llu” w ciągu formatu
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(4361,12): message : rozważ użycie elementu „%Iu” w ciągu formatu
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(4361,12): message : rozważ użycie elementu „%I64u” w ciągu formatu
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(4362,11): warning C4477: „printf”: ciąg formatu „%.*s” wymaga argumentu typu „char *”, ale argument 2 ze zmienną liczbą argumentów ma typ „void *”
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(4362,11): message : ten argument jest używany na potrzeby specyfikatora konwersji
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(4362,11): warning C4477: „printf”: ciąg formatu „%.*s” wymaga argumentu typu „int”, ale argument 1 ze zmienną liczbą argumentów ma typ „unsigned __int64”
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(4362,11): message : ten argument jest używany jako dokładność
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(4371,12): warning C4477: „wprintf”: ciąg formatu „%.*s” wymaga argumentu typu „int”, ale argument 1 ze zmienną liczbą argumentów ma typ „unsigned __int64”
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(4371,12): message : ten argument jest używany jako dokładność
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(4371,12): warning C4477: „wprintf”: ciąg formatu „%u” wymaga argumentu typu „unsigned int”, ale argument 3 ze zmienną liczbą argumentów ma typ „unsigned __int64”
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(4371,12): message : rozważ użycie elementu „%llu” w ciągu formatu
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(4371,12): message : rozważ użycie elementu „%Iu” w ciągu formatu
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(4371,12): message : rozważ użycie elementu „%I64u” w ciągu formatu
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(4371,12): warning C4477: „wprintf”: ciąg formatu „%u” wymaga argumentu typu „unsigned int”, ale argument 4 ze zmienną liczbą argumentów ma typ „unsigned __int64”
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(4371,12): message : rozważ użycie elementu „%llu” w ciągu formatu
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(4371,12): message : rozważ użycie elementu „%Iu” w ciągu formatu
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(4371,12): message : rozważ użycie elementu „%I64u” w ciągu formatu
+  wstr.cpp
+  Generowanie kodu...
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\nXAF_console\xaf.cpp(2000): warning C4715: "nc::xaf::travel”: niewszystkie ścieżki kodu zwracają wartość
+LINK : warning LNK4075: zignorowano opcję „/INCREMENTAL” z powodu określenia opcji „/FORCE”
+ginterface.obj : warning LNK4006: element "void __cdecl nc::__file_cell_free(void *)" (?__file_cell_free@nc@@YAXPEAX@Z) jest już zdefiniowany w elemencie compressed_file.obj; druga definicja została zignorowana
+ginterface.obj : warning LNK4006: element "public: int __cdecl nc::folder::add(struct nc::folder *)" (?add@folder@nc@@QEAAHPEAU12@@Z) jest już zdefiniowany w elemencie compressed_file.obj; druga definicja została zignorowana
+ginterface.obj : warning LNK4006: element "public: int __cdecl nc::folder::add(struct nc::file *)" (?add@folder@nc@@QEAAHPEAUfile@2@@Z) jest już zdefiniowany w elemencie compressed_file.obj; druga definicja została zignorowana
+ginterface.obj : warning LNK4006: element "public: int __cdecl nc::folder::add(void const *,unsigned __int64,wchar_t const *,unsigned char)" (?add@folder@nc@@QEAAHPEBX_KPEB_WE@Z) jest już zdefiniowany w elemencie compressed_file.obj; druga definicja została zignorowana
+ginterface.obj : warning LNK4006: element "public: void __cdecl nc::folder::copyto(struct nc::xaf *)" (?copyto@folder@nc@@QEAAXPEAUxaf@2@@Z) jest już zdefiniowany w elemencie compressed_file.obj; druga definicja została zignorowana
+ginterface.obj : warning LNK4006: element "unsigned __int64 __cdecl nc::decrease_to_folder(wchar_t const *,unsigned __int64)" (?decrease_to_folder@nc@@YA_KPEB_W_K@Z) jest już zdefiniowany w elemencie compressed_file.obj; druga definicja została zignorowana
+ginterface.obj : warning LNK4006: element "unsigned __int64 __cdecl nc::distance_to_folder(wchar_t const *,unsigned __int64)" (?distance_to_folder@nc@@YA_KPEB_W_K@Z) jest już zdefiniowany w elemencie compressed_file.obj; druga definicja została zignorowana
+ginterface.obj : warning LNK4006: element "struct _iobuf * __cdecl nc::load_file_from_xaf(wchar_t const *,wchar_t const *)" (?load_file_from_xaf@nc@@YAPEAU_iobuf@@PEB_W0@Z) jest już zdefiniowany w elemencie compressed_file.obj; druga definicja została zignorowana
+ginterface.obj : warning LNK4006: element "struct _iobuf * __cdecl nc::load_file_from_xaf(wchar_t const *,wchar_t const *,struct nc::xaf_password *)" (?load_file_from_xaf@nc@@YAPEAU_iobuf@@PEB_W0PEAUxaf_password@1@@Z) jest już zdefiniowany w elemencie compressed_file.obj; druga definicja została zignorowana
+ginterface.obj : warning LNK4006: element "public: void __cdecl nc::folder::print(void)" (?print@folder@nc@@QEAAXXZ) jest już zdefiniowany w elemencie compressed_file.obj; druga definicja została zignorowana
+ginterface.obj : warning LNK4006: element "public: struct nc::file * __cdecl nc::folder::travel(wchar_t const *,unsigned __int64)" (?travel@folder@nc@@QEAAPEAUfile@2@PEB_W_K@Z) jest już zdefiniowany w elemencie compressed_file.obj; druga definicja została zignorowana
+ginterface.obj : warning LNK4006: element "public: struct nc::file_cell * __cdecl nc::folder::travel_cell(wchar_t const *,unsigned __int64)" (?travel_cell@folder@nc@@QEAAPEAUfile_cell@2@PEB_W_K@Z) jest już zdefiniowany w elemencie compressed_file.obj; druga definicja została zignorowana
+ginterface.obj : warning LNK4006: element "char const * __cdecl nc::xaf_get_error(void)" (?xaf_get_error@nc@@YAPEBDXZ) jest już zdefiniowany w elemencie compressed_file.obj; druga definicja została zignorowana
+ginterface.obj : warning LNK4006: element "union nc::error nc::last_error" (?last_error@nc@@3Terror@1@A) jest już zdefiniowany w elemencie compressed_file.obj; druga definicja została zignorowana
+nXAF_console.obj : warning LNK4006: element "void __cdecl nc::__file_cell_free(void *)" (?__file_cell_free@nc@@YAXPEAX@Z) jest już zdefiniowany w elemencie compressed_file.obj; druga definicja została zignorowana
+nXAF_console.obj : warning LNK4006: element "public: int __cdecl nc::folder::add(struct nc::folder *)" (?add@folder@nc@@QEAAHPEAU12@@Z) jest już zdefiniowany w elemencie compressed_file.obj; druga definicja została zignorowana
+nXAF_console.obj : warning LNK4006: element "public: int __cdecl nc::folder::add(struct nc::file *)" (?add@folder@nc@@QEAAHPEAUfile@2@@Z) jest już zdefiniowany w elemencie compressed_file.obj; druga definicja została zignorowana
+nXAF_console.obj : warning LNK4006: element "public: int __cdecl nc::folder::add(void const *,unsigned __int64,wchar_t const *,unsigned char)" (?add@folder@nc@@QEAAHPEBX_KPEB_WE@Z) jest już zdefiniowany w elemencie compressed_file.obj; druga definicja została zignorowana
+nXAF_console.obj : warning LNK4006: element "public: void __cdecl nc::folder::copyto(struct nc::xaf *)" (?copyto@folder@nc@@QEAAXPEAUxaf@2@@Z) jest już zdefiniowany w elemencie compressed_file.obj; druga definicja została zignorowana
+nXAF_console.obj : warning LNK4006: element "unsigned __int64 __cdecl nc::decrease_to_folder(wchar_t const *,unsigned __int64)" (?decrease_to_folder@nc@@YA_KPEB_W_K@Z) jest już zdefiniowany w elemencie compressed_file.obj; druga definicja została zignorowana
+nXAF_console.obj : warning LNK4006: element "unsigned __int64 __cdecl nc::distance_to_folder(wchar_t const *,unsigned __int64)" (?distance_to_folder@nc@@YA_KPEB_W_K@Z) jest już zdefiniowany w elemencie compressed_file.obj; druga definicja została zignorowana
+nXAF_console.obj : warning LNK4006: element "struct _iobuf * __cdecl nc::load_file_from_xaf(wchar_t const *,wchar_t const *)" (?load_file_from_xaf@nc@@YAPEAU_iobuf@@PEB_W0@Z) jest już zdefiniowany w elemencie compressed_file.obj; druga definicja została zignorowana
+nXAF_console.obj : warning LNK4006: element "struct _iobuf * __cdecl nc::load_file_from_xaf(wchar_t const *,wchar_t const *,struct nc::xaf_password *)" (?load_file_from_xaf@nc@@YAPEAU_iobuf@@PEB_W0PEAUxaf_password@1@@Z) jest już zdefiniowany w elemencie compressed_file.obj; druga definicja została zignorowana
+nXAF_console.obj : warning LNK4006: element "public: void __cdecl nc::folder::print(void)" (?print@folder@nc@@QEAAXXZ) jest już zdefiniowany w elemencie compressed_file.obj; druga definicja została zignorowana
+nXAF_console.obj : warning LNK4006: element "public: struct nc::file * __cdecl nc::folder::travel(wchar_t const *,unsigned __int64)" (?travel@folder@nc@@QEAAPEAUfile@2@PEB_W_K@Z) jest już zdefiniowany w elemencie compressed_file.obj; druga definicja została zignorowana
+nXAF_console.obj : warning LNK4006: element "public: struct nc::file_cell * __cdecl nc::folder::travel_cell(wchar_t const *,unsigned __int64)" (?travel_cell@folder@nc@@QEAAPEAUfile_cell@2@PEB_W_K@Z) jest już zdefiniowany w elemencie compressed_file.obj; druga definicja została zignorowana
+nXAF_console.obj : warning LNK4006: element "char const * __cdecl nc::xaf_get_error(void)" (?xaf_get_error@nc@@YAPEBDXZ) jest już zdefiniowany w elemencie compressed_file.obj; druga definicja została zignorowana
+nXAF_console.obj : warning LNK4006: element "struct SDL_Texture * * add_file_tex" (?add_file_tex@@3PAPEAUSDL_Texture@@A) jest już zdefiniowany w elemencie ginterface.obj; druga definicja została zignorowana
+nXAF_console.obj : warning LNK4006: element "struct SDL_Texture * * add_folder_tex" (?add_folder_tex@@3PAPEAUSDL_Texture@@A) jest już zdefiniowany w elemencie ginterface.obj; druga definicja została zignorowana
+nXAF_console.obj : warning LNK4006: element "struct SDL_Texture * * trash_tex" (?trash_tex@@3PAPEAUSDL_Texture@@A) jest już zdefiniowany w elemencie ginterface.obj; druga definicja została zignorowana
+nXAF_console.obj : warning LNK4006: element "struct SDL_Rect add_file_rect" (?add_file_rect@@3USDL_Rect@@A) jest już zdefiniowany w elemencie ginterface.obj; druga definicja została zignorowana
+nXAF_console.obj : warning LNK4006: element "struct SDL_Rect add_folder_rect" (?add_folder_rect@@3USDL_Rect@@A) jest już zdefiniowany w elemencie ginterface.obj; druga definicja została zignorowana
+nXAF_console.obj : warning LNK4006: element "struct SDL_Rect trash_rect" (?trash_rect@@3USDL_Rect@@A) jest już zdefiniowany w elemencie ginterface.obj; druga definicja została zignorowana
+nXAF_console.obj : warning LNK4006: element "int last_button_hoovered" (?last_button_hoovered@@3HA) jest już zdefiniowany w elemencie ginterface.obj; druga definicja została zignorowana
+nXAF_console.obj : warning LNK4006: element "union nc::error nc::last_error" (?last_error@nc@@3Terror@1@A) jest już zdefiniowany w elemencie compressed_file.obj; druga definicja została zignorowana
+xaf.obj : warning LNK4006: element "void __cdecl nc::__file_cell_free(void *)" (?__file_cell_free@nc@@YAXPEAX@Z) jest już zdefiniowany w elemencie compressed_file.obj; druga definicja została zignorowana
+xaf.obj : warning LNK4006: element "public: int __cdecl nc::folder::add(struct nc::folder *)" (?add@folder@nc@@QEAAHPEAU12@@Z) jest już zdefiniowany w elemencie compressed_file.obj; druga definicja została zignorowana
+xaf.obj : warning LNK4006: element "public: int __cdecl nc::folder::add(struct nc::file *)" (?add@folder@nc@@QEAAHPEAUfile@2@@Z) jest już zdefiniowany w elemencie compressed_file.obj; druga definicja została zignorowana
+xaf.obj : warning LNK4006: element "public: int __cdecl nc::folder::add(void const *,unsigned __int64,wchar_t const *,unsigned char)" (?add@folder@nc@@QEAAHPEBX_KPEB_WE@Z) jest już zdefiniowany w elemencie compressed_file.obj; druga definicja została zignorowana
+xaf.obj : warning LNK4006: element "public: void __cdecl nc::folder::copyto(struct nc::xaf *)" (?copyto@folder@nc@@QEAAXPEAUxaf@2@@Z) jest już zdefiniowany w elemencie compressed_file.obj; druga definicja została zignorowana
+xaf.obj : warning LNK4006: element "unsigned __int64 __cdecl nc::decrease_to_folder(wchar_t const *,unsigned __int64)" (?decrease_to_folder@nc@@YA_KPEB_W_K@Z) jest już zdefiniowany w elemencie compressed_file.obj; druga definicja została zignorowana
+xaf.obj : warning LNK4006: element "unsigned __int64 __cdecl nc::distance_to_folder(wchar_t const *,unsigned __int64)" (?distance_to_folder@nc@@YA_KPEB_W_K@Z) jest już zdefiniowany w elemencie compressed_file.obj; druga definicja została zignorowana
+xaf.obj : warning LNK4006: element "struct _iobuf * __cdecl nc::load_file_from_xaf(wchar_t const *,wchar_t const *)" (?load_file_from_xaf@nc@@YAPEAU_iobuf@@PEB_W0@Z) jest już zdefiniowany w elemencie compressed_file.obj; druga definicja została zignorowana
+xaf.obj : warning LNK4006: element "struct _iobuf * __cdecl nc::load_file_from_xaf(wchar_t const *,wchar_t const *,struct nc::xaf_password *)" (?load_file_from_xaf@nc@@YAPEAU_iobuf@@PEB_W0PEAUxaf_password@1@@Z) jest już zdefiniowany w elemencie compressed_file.obj; druga definicja została zignorowana
+xaf.obj : warning LNK4006: element "public: void __cdecl nc::folder::print(void)" (?print@folder@nc@@QEAAXXZ) jest już zdefiniowany w elemencie compressed_file.obj; druga definicja została zignorowana
+xaf.obj : warning LNK4006: element "public: struct nc::file * __cdecl nc::folder::travel(wchar_t const *,unsigned __int64)" (?travel@folder@nc@@QEAAPEAUfile@2@PEB_W_K@Z) jest już zdefiniowany w elemencie compressed_file.obj; druga definicja została zignorowana
+xaf.obj : warning LNK4006: element "public: struct nc::file_cell * __cdecl nc::folder::travel_cell(wchar_t const *,unsigned __int64)" (?travel_cell@folder@nc@@QEAAPEAUfile_cell@2@PEB_W_K@Z) jest już zdefiniowany w elemencie compressed_file.obj; druga definicja została zignorowana
+xaf.obj : warning LNK4006: element "char const * __cdecl nc::xaf_get_error(void)" (?xaf_get_error@nc@@YAPEBDXZ) jest już zdefiniowany w elemencie compressed_file.obj; druga definicja została zignorowana
+xaf.obj : warning LNK4006: element "union nc::error nc::last_error" (?last_error@nc@@3Terror@1@A) jest już zdefiniowany w elemencie compressed_file.obj; druga definicja została zignorowana
+C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\x64\Debug\nXAF.exe : warning LNK4088: obraz jest generowany ze względu na użycie opcji /FORCE; uruchomienie obrazu może nie być możliwe
+  nXAF_console.vcxproj -> C:\Users\Dawid\Desktop\NC++\nXAF_consoleOLD\x64\Debug\nXAF.exe

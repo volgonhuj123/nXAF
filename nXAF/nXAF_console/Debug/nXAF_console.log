@@ -1,0 +1,270 @@
+﻿  array.cpp
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\memalloc.cpp(83,10): warning C4477: „printf”: ciąg formatu „%llu” wymaga argumentu typu „unsigned __int64”, ale argument 1 ze zmienną liczbą argumentów ma typ „size_t”
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\memalloc.cpp(83,10): message : rozważ użycie elementu „%zu” w ciągu formatu
+  linked_list.cpp
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\memalloc.cpp(14,11): warning C4477: „printf”: ciąg formatu „%llu” wymaga argumentu typu „unsigned __int64”, ale argument 1 ze zmienną liczbą argumentów ma typ „size_t”
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\memalloc.cpp(14,11): message : rozważ użycie elementu „%zu” w ciągu formatu
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\memalloc.cpp(14,11): warning C4477: „printf”: ciąg formatu „%llu” wymaga argumentu typu „unsigned __int64”, ale argument 2 ze zmienną liczbą argumentów ma typ „size_t”
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\memalloc.cpp(14,11): message : rozważ użycie elementu „%zu” w ciągu formatu
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\memalloc.cpp(19,13): warning C4477: „printf”: ciąg formatu „%llu” wymaga argumentu typu „unsigned __int64”, ale argument 1 ze zmienną liczbą argumentów ma typ „size_t”
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\memalloc.cpp(19,13): message : rozważ użycie elementu „%zu” w ciągu formatu
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\memalloc.cpp(47,12): warning C4477: „printf”: ciąg formatu „%llu” wymaga argumentu typu „unsigned __int64”, ale argument 1 ze zmienną liczbą argumentów ma typ „unsigned int”
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\memalloc.cpp(47,12): message : rozważ użycie elementu „%u” w ciągu formatu
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\memalloc.cpp(47,12): message : rozważ użycie elementu „%Iu” w ciągu formatu
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\memalloc.cpp(47,12): message : rozważ użycie elementu „%I32u” w ciągu formatu
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\memalloc.cpp(83,10): warning C4477: „printf”: ciąg formatu „%llu” wymaga argumentu typu „unsigned __int64”, ale argument 1 ze zmienną liczbą argumentów ma typ „size_t”
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\memalloc.cpp(83,10): message : rozważ użycie elementu „%zu” w ciągu formatu
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\memalloc.cpp(88,9): warning C4477: „printf”: ciąg formatu „%llu” wymaga argumentu typu „unsigned __int64”, ale argument 2 ze zmienną liczbą argumentów ma typ „size_t”
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\memalloc.cpp(88,9): message : rozważ użycie elementu „%zu” w ciągu formatu
+  memalloc.cpp
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\memalloc.cpp(83,10): warning C4477: „printf”: ciąg formatu „%llu” wymaga argumentu typu „unsigned __int64”, ale argument 1 ze zmienną liczbą argumentów ma typ „size_t”
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\memalloc.cpp(83,10): message : rozważ użycie elementu „%zu” w ciągu formatu
+  nXAF_console.cpp
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\memalloc.cpp(14,11): warning C4477: „printf”: ciąg formatu „%llu” wymaga argumentu typu „unsigned __int64”, ale argument 1 ze zmienną liczbą argumentów ma typ „size_t”
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\memalloc.cpp(14,11): message : rozważ użycie elementu „%zu” w ciągu formatu
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\memalloc.cpp(14,11): warning C4477: „printf”: ciąg formatu „%llu” wymaga argumentu typu „unsigned __int64”, ale argument 2 ze zmienną liczbą argumentów ma typ „size_t”
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\memalloc.cpp(14,11): message : rozważ użycie elementu „%zu” w ciągu formatu
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\memalloc.cpp(19,13): warning C4477: „printf”: ciąg formatu „%llu” wymaga argumentu typu „unsigned __int64”, ale argument 1 ze zmienną liczbą argumentów ma typ „size_t”
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\memalloc.cpp(19,13): message : rozważ użycie elementu „%zu” w ciągu formatu
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\memalloc.cpp(47,12): warning C4477: „printf”: ciąg formatu „%llu” wymaga argumentu typu „unsigned __int64”, ale argument 1 ze zmienną liczbą argumentów ma typ „unsigned int”
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\memalloc.cpp(47,12): message : rozważ użycie elementu „%u” w ciągu formatu
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\memalloc.cpp(47,12): message : rozważ użycie elementu „%Iu” w ciągu formatu
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\memalloc.cpp(47,12): message : rozważ użycie elementu „%I32u” w ciągu formatu
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\memalloc.cpp(83,10): warning C4477: „printf”: ciąg formatu „%llu” wymaga argumentu typu „unsigned __int64”, ale argument 1 ze zmienną liczbą argumentów ma typ „size_t”
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\memalloc.cpp(83,10): message : rozważ użycie elementu „%zu” w ciągu formatu
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\memalloc.cpp(88,9): warning C4477: „printf”: ciąg formatu „%llu” wymaga argumentu typu „unsigned __int64”, ale argument 2 ze zmienną liczbą argumentów ma typ „size_t”
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\memalloc.cpp(88,9): message : rozważ użycie elementu „%zu” w ciągu formatu
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(184,10): warning C4477: „printf”: ciąg formatu „%llu” wymaga argumentu typu „unsigned __int64”, ale argument 1 ze zmienną liczbą argumentów ma typ „size_t”
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(184,10): message : rozważ użycie elementu „%zu” w ciągu formatu
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(193,19): warning C4244: "=": konwersja z "__int64" do "size_t", możliwa utrata danych
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(203,9): warning C4101: "temp": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(296,9): warning C4101: "temp": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(440,61): warning C4244: "argument": konwersja z "unsigned __int64" do "unsigned int", możliwa utrata danych
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(440,35): warning C4244: "argument": konwersja z "unsigned __int64" do "unsigned int", możliwa utrata danych
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(445,12): warning C4477: „wprintf”: ciąg formatu „%.*s” wymaga argumentu typu „int”, ale argument 1 ze zmienną liczbą argumentów ma typ „unsigned __int64”
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(445,12): message : ten argument jest używany jako dokładność
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(450,10): warning C4244: "inicjowanie": konwersja z "unsigned __int64" do "unsigned int", możliwa utrata danych
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(453,31): warning C4244: "=": konwersja z "unsigned __int64" do "unsigned int", możliwa utrata danych
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(459,15): warning C4477: „wprintf”: ciąg formatu „%.*s” wymaga argumentu typu „int”, ale argument 1 ze zmienną liczbą argumentów ma typ „unsigned __int64”
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(459,15): message : ten argument jest używany jako dokładność
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(503,59): warning C4244: "argument": konwersja z "unsigned __int64" do "unsigned int", możliwa utrata danych
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(503,33): warning C4244: "argument": konwersja z "unsigned __int64" do "unsigned int", możliwa utrata danych
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(504,11): warning C4477: „wprintf”: ciąg formatu „%.*s” wymaga argumentu typu „int”, ale argument 1 ze zmienną liczbą argumentów ma typ „unsigned __int64”
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(504,11): message : ten argument jest używany jako dokładność
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(521,12): warning C4477: „wprintf”: ciąg formatu „%.*s” wymaga argumentu typu „int”, ale argument 1 ze zmienną liczbą argumentów ma typ „unsigned __int64”
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(521,12): message : ten argument jest używany jako dokładność
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(532,13): warning C4477: „wprintf”: ciąg formatu „%.*s” wymaga argumentu typu „int”, ale argument 1 ze zmienną liczbą argumentów ma typ „unsigned __int64”
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(532,13): message : ten argument jest używany jako dokładność
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(546,45): warning C4244: "argument": konwersja z "unsigned __int64" do "unsigned int", możliwa utrata danych
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(545,69): warning C4244: "argument": konwersja z "unsigned __int64" do "unsigned int", możliwa utrata danych
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(551,80): warning C4244: "argument": konwersja z "unsigned __int64" do "unsigned int", możliwa utrata danych
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(568,10): warning C4244: "inicjowanie": konwersja z "unsigned __int64" do "unsigned int", możliwa utrata danych
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(571,31): warning C4244: "=": konwersja z "unsigned __int64" do "unsigned int", możliwa utrata danych
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(578,14): warning C4477: „wprintf”: ciąg formatu „%.*s” wymaga argumentu typu „int”, ale argument 2 ze zmienną liczbą argumentów ma typ „unsigned __int64”
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(578,14): message : ten argument jest używany jako dokładność
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(625,33): warning C4244: "argument": konwersja z "unsigned __int64" do "unsigned int", możliwa utrata danych
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(630,12): warning C4477: „wprintf”: ciąg formatu „%.*s” wymaga argumentu typu „int”, ale argument 1 ze zmienną liczbą argumentów ma typ „unsigned __int64”
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(630,12): message : ten argument jest używany jako dokładność
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(649,15): warning C4477: „wprintf”: ciąg formatu „%.*s” wymaga argumentu typu „int”, ale argument 1 ze zmienną liczbą argumentów ma typ „unsigned __int64”
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(649,15): message : ten argument jest używany jako dokładność
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(651,45): warning C4244: "argument": konwersja z "unsigned __int64" do "unsigned int", możliwa utrata danych
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(650,69): warning C4244: "argument": konwersja z "unsigned __int64" do "unsigned int", możliwa utrata danych
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(652,15): warning C4477: „wprintf”: ciąg formatu „%.*s” wymaga argumentu typu „int”, ale argument 1 ze zmienną liczbą argumentów ma typ „unsigned __int64”
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(652,15): message : ten argument jest używany jako dokładność
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(658,15): warning C4477: „wprintf”: ciąg formatu „%.*s” wymaga argumentu typu „int”, ale argument 1 ze zmienną liczbą argumentów ma typ „unsigned __int64”
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(658,15): message : ten argument jest używany jako dokładność
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(663,80): warning C4244: "argument": konwersja z "unsigned __int64" do "unsigned int", możliwa utrata danych
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(664,15): warning C4477: „wprintf”: ciąg formatu „%.*s” wymaga argumentu typu „int”, ale argument 1 ze zmienną liczbą argumentów ma typ „unsigned __int64”
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(664,15): message : ten argument jest używany jako dokładność
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(690,35): warning C4244: "argument": konwersja z "unsigned __int64" do "size_t", możliwa utrata danych
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(691,41): warning C4244: "argument": konwersja z "unsigned __int64" do "size_t", możliwa utrata danych
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(702,10): warning C4244: "inicjowanie": konwersja z "unsigned __int64" do "unsigned int", możliwa utrata danych
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(705,31): warning C4244: "=": konwersja z "unsigned __int64" do "unsigned int", możliwa utrata danych
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(710,14): warning C4477: „wprintf”: ciąg formatu „%*s” wymaga argumentu typu „int”, ale argument 1 ze zmienną liczbą argumentów ma typ „unsigned __int64”
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(710,14): message : ten argument jest używany jako szerokość pola
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(751,29): warning C4244: "argument": konwersja z "unsigned __int64" do "unsigned int", możliwa utrata danych
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(754,11): warning C4477: „wprintf”: ciąg formatu „%.*s” wymaga argumentu typu „int”, ale argument 1 ze zmienną liczbą argumentów ma typ „unsigned __int64”
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(754,11): message : ten argument jest używany jako dokładność
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(761,55): warning C4244: "inicjowanie": konwersja z "__int64" do "size_t", możliwa utrata danych
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(784,10): warning C4244: "inicjowanie": konwersja z "unsigned __int64" do "unsigned int", możliwa utrata danych
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(787,31): warning C4244: "=": konwersja z "unsigned __int64" do "unsigned int", możliwa utrata danych
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(792,14): warning C4477: „wprintf”: ciąg formatu „%*s” wymaga argumentu typu „int”, ale argument 1 ze zmienną liczbą argumentów ma typ „unsigned __int64”
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(792,14): message : ten argument jest używany jako szerokość pola
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(844,11): warning C4477: „wprintf”: ciąg formatu „%.*s” wymaga argumentu typu „int”, ale argument 1 ze zmienną liczbą argumentów ma typ „unsigned __int64”
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(844,11): message : ten argument jest używany jako dokładność
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(967,57): warning C4244: "argument": konwersja z "unsigned __int64" do "size_t", możliwa utrata danych
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(968,68): warning C4244: "argument": konwersja z "unsigned __int64" do "size_t", możliwa utrata danych
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(970,1): warning C4293: "<<": licznik przesunięć ujemny lub zbyt duży, niezdefiniowane zachowanie
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(973,40): warning C4244: "argument": konwersja z "unsigned __int64" do "size_t", możliwa utrata danych
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(974,36): warning C4244: "argument": konwersja z "unsigned __int64" do "size_t", możliwa utrata danych
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(1099,57): warning C4244: "argument": konwersja z "unsigned __int64" do "size_t", możliwa utrata danych
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(1100,68): warning C4244: "argument": konwersja z "unsigned __int64" do "size_t", możliwa utrata danych
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(1102,1): warning C4293: "<<": licznik przesunięć ujemny lub zbyt duży, niezdefiniowane zachowanie
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(1105,40): warning C4244: "argument": konwersja z "unsigned __int64" do "size_t", możliwa utrata danych
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(1106,36): warning C4244: "argument": konwersja z "unsigned __int64" do "size_t", możliwa utrata danych
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(1156,40): warning C4244: "argument": konwersja z "unsigned __int64" do "size_t", możliwa utrata danych
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(1183,45): warning C4244: "argument": konwersja z "unsigned __int64" do "size_t", możliwa utrata danych
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(1199,48): warning C4244: "argument": konwersja z "unsigned __int64" do "size_t", możliwa utrata danych
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(1228,10): warning C4244: "inicjowanie": konwersja z "unsigned __int64" do "unsigned int", możliwa utrata danych
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(1249,60): warning C4244: "argument": konwersja z "unsigned __int64" do "size_t", możliwa utrata danych
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(1250,81): warning C4244: "argument": konwersja z "unsigned __int64" do "size_t", możliwa utrata danych
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(1251,77): warning C4244: "argument": konwersja z "unsigned __int64" do "size_t", możliwa utrata danych
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(1252,86): warning C4244: "argument": konwersja z "unsigned __int64" do "size_t", możliwa utrata danych
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(1257,83): warning C4244: "argument": konwersja z "unsigned __int64" do "unsigned int", możliwa utrata danych
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(1278,10): warning C4477: „printf”: ciąg formatu „%u” wymaga argumentu typu „unsigned int”, ale argument 1 ze zmienną liczbą argumentów ma typ „unsigned __int64”
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(1278,10): message : rozważ użycie elementu „%llu” w ciągu formatu
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(1278,10): message : rozważ użycie elementu „%I64u” w ciągu formatu
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(1278,10): warning C4477: „printf”: ciąg formatu „%u” wymaga argumentu typu „unsigned int”, ale argument 2 ze zmienną liczbą argumentów ma typ „unsigned __int64”
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(1278,10): message : rozważ użycie elementu „%llu” w ciągu formatu
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(1278,10): message : rozważ użycie elementu „%I64u” w ciągu formatu
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(1303,13): warning C4477: „wprintf”: ciąg formatu „%.*s” wymaga argumentu typu „int”, ale argument 1 ze zmienną liczbą argumentów ma typ „unsigned __int64”
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(1303,13): message : ten argument jest używany jako dokładność
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(1303,13): warning C4477: „wprintf”: ciąg formatu „%u” wymaga argumentu typu „unsigned int”, ale argument 3 ze zmienną liczbą argumentów ma typ „unsigned __int64”
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(1303,13): message : rozważ użycie elementu „%llu” w ciągu formatu
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(1303,13): message : rozważ użycie elementu „%I64u” w ciągu formatu
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(1313,13): warning C4477: „wprintf”: ciąg formatu „%.*s” wymaga argumentu typu „int”, ale argument 1 ze zmienną liczbą argumentów ma typ „unsigned __int64”
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(1313,13): message : ten argument jest używany jako dokładność
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(1313,13): warning C4477: „wprintf”: ciąg formatu „%u” wymaga argumentu typu „unsigned int”, ale argument 3 ze zmienną liczbą argumentów ma typ „unsigned __int64”
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(1313,13): message : rozważ użycie elementu „%llu” w ciągu formatu
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(1313,13): message : rozważ użycie elementu „%I64u” w ciągu formatu
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(1313,13): warning C4477: „wprintf”: ciąg formatu „%u” wymaga argumentu typu „unsigned int”, ale argument 4 ze zmienną liczbą argumentów ma typ „unsigned __int64”
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(1313,13): message : rozważ użycie elementu „%llu” w ciągu formatu
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(1313,13): message : rozważ użycie elementu „%I64u” w ciągu formatu
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(1340,10): warning C4477: „printf”: ciąg formatu „%u” wymaga argumentu typu „unsigned int”, ale argument 1 ze zmienną liczbą argumentów ma typ „unsigned __int64”
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(1340,10): message : rozważ użycie elementu „%llu” w ciągu formatu
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(1340,10): message : rozważ użycie elementu „%I64u” w ciągu formatu
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(1340,10): warning C4477: „printf”: ciąg formatu „%u” wymaga argumentu typu „unsigned int”, ale argument 2 ze zmienną liczbą argumentów ma typ „unsigned __int64”
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(1340,10): message : rozważ użycie elementu „%llu” w ciągu formatu
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(1340,10): message : rozważ użycie elementu „%I64u” w ciągu formatu
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(1365,13): warning C4477: „wprintf”: ciąg formatu „%.*s” wymaga argumentu typu „int”, ale argument 1 ze zmienną liczbą argumentów ma typ „unsigned __int64”
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(1365,13): message : ten argument jest używany jako dokładność
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(1365,13): warning C4477: „wprintf”: ciąg formatu „%u” wymaga argumentu typu „unsigned int”, ale argument 3 ze zmienną liczbą argumentów ma typ „unsigned __int64”
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(1365,13): message : rozważ użycie elementu „%llu” w ciągu formatu
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(1365,13): message : rozważ użycie elementu „%I64u” w ciągu formatu
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(1366,12): warning C4477: „printf”: ciąg formatu „%.*s” wymaga argumentu typu „char *”, ale argument 2 ze zmienną liczbą argumentów ma typ „void *”
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(1366,12): message : ten argument jest używany na potrzeby specyfikatora konwersji
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(1366,12): warning C4477: „printf”: ciąg formatu „%.*s” wymaga argumentu typu „int”, ale argument 1 ze zmienną liczbą argumentów ma typ „unsigned __int64”
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(1366,12): message : ten argument jest używany jako dokładność
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(1383,13): warning C4477: „wprintf”: ciąg formatu „%.*s” wymaga argumentu typu „int”, ale argument 1 ze zmienną liczbą argumentów ma typ „unsigned __int64”
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(1383,13): message : ten argument jest używany jako dokładność
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(1383,13): warning C4477: „wprintf”: ciąg formatu „%u” wymaga argumentu typu „unsigned int”, ale argument 3 ze zmienną liczbą argumentów ma typ „unsigned __int64”
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(1383,13): message : rozważ użycie elementu „%llu” w ciągu formatu
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(1383,13): message : rozważ użycie elementu „%I64u” w ciągu formatu
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(1383,13): warning C4477: „wprintf”: ciąg formatu „%u” wymaga argumentu typu „unsigned int”, ale argument 4 ze zmienną liczbą argumentów ma typ „unsigned __int64”
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(1383,13): message : rozważ użycie elementu „%llu” w ciągu formatu
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(1383,13): message : rozważ użycie elementu „%I64u” w ciągu formatu
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(1440,18): warning C4477: „wprintf”: ciąg formatu „%.*s” wymaga argumentu typu „int”, ale argument 1 ze zmienną liczbą argumentów ma typ „unsigned __int64”
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(1440,18): message : ten argument jest używany jako dokładność
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(1449,17): warning C4477: „wprintf”: ciąg formatu „%.*s” wymaga argumentu typu „int”, ale argument 1 ze zmienną liczbą argumentów ma typ „unsigned __int64”
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(1449,17): message : ten argument jest używany jako dokładność
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(1414,26): warning C4101: "next": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(1506,18): warning C4477: „wprintf”: ciąg formatu „%.*s” wymaga argumentu typu „int”, ale argument 1 ze zmienną liczbą argumentów ma typ „unsigned __int64”
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(1506,18): message : ten argument jest używany jako dokładność
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(1515,17): warning C4477: „wprintf”: ciąg formatu „%.*s” wymaga argumentu typu „int”, ale argument 1 ze zmienną liczbą argumentów ma typ „unsigned __int64”
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(1515,17): message : ten argument jest używany jako dokładność
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(1484,30): warning C4101: "next": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(1582,39): warning C4244: "=": konwersja z "unsigned __int64" do "unsigned char", możliwa utrata danych
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(1585,50): warning C4244: "argument": konwersja z "unsigned __int64" do "size_t", możliwa utrata danych
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(1586,42): warning C4244: "argument": konwersja z "unsigned __int64" do "size_t", możliwa utrata danych
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(1611,46): warning C4244: "=": konwersja z "unsigned __int64" do "unsigned char", możliwa utrata danych
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(1618,64): warning C4244: "argument": konwersja z "unsigned __int64" do "size_t", możliwa utrata danych
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(1636,11): warning C4477: „printf”: ciąg formatu „%llu” wymaga argumentu typu „unsigned __int64”, ale argument 2 ze zmienną liczbą argumentów ma typ „size_t”
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(1636,11): message : rozważ użycie elementu „%zu” w ciągu formatu
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(1572,20): warning C4101: "xpr_ptr": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(1668,10): warning C4477: „printf”: ciąg formatu „%llu” wymaga argumentu typu „unsigned __int64”, ale argument 1 ze zmienną liczbą argumentów ma typ „size_t”
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(1668,10): message : rozważ użycie elementu „%zu” w ciągu formatu
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(1671,27): warning C4477: „printf”: ciąg formatu „%llu” wymaga argumentu typu „unsigned __int64”, ale argument 1 ze zmienną liczbą argumentów ma typ „size_t”
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(1671,27): message : rozważ użycie elementu „%zu” w ciągu formatu
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(1671,27): warning C4477: „printf”: ciąg formatu „%llu” wymaga argumentu typu „unsigned __int64”, ale argument 2 ze zmienną liczbą argumentów ma typ „size_t”
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(1671,27): message : rozważ użycie elementu „%zu” w ciągu formatu
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(1718,18): warning C4244: "=": konwersja z "__int64" do "int", możliwa utrata danych
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(1719,23): warning C4244: "argument": konwersja z "__int64" do "size_t", możliwa utrata danych
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(1773,10): warning C4477: „printf”: ciąg formatu „%llu” wymaga argumentu typu „unsigned __int64”, ale argument 1 ze zmienną liczbą argumentów ma typ „size_t”
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(1773,10): message : rozważ użycie elementu „%zu” w ciągu formatu
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(1786,29): warning C4477: „printf”: ciąg formatu „%llu” wymaga argumentu typu „unsigned __int64”, ale argument 1 ze zmienną liczbą argumentów ma typ „size_t”
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(1786,29): message : rozważ użycie elementu „%zu” w ciągu formatu
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(1786,29): warning C4477: „printf”: ciąg formatu „%llu” wymaga argumentu typu „unsigned __int64”, ale argument 2 ze zmienną liczbą argumentów ma typ „size_t”
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(1786,29): message : rozważ użycie elementu „%zu” w ciągu formatu
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(1833,18): warning C4244: "=": konwersja z "__int64" do "int", możliwa utrata danych
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(1834,23): warning C4244: "argument": konwersja z "__int64" do "size_t", możliwa utrata danych
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(1897,10): warning C4477: „printf”: ciąg formatu „%u” wymaga argumentu typu „unsigned int”, ale argument 1 ze zmienną liczbą argumentów ma typ „unsigned __int64”
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(1897,10): message : rozważ użycie elementu „%llu” w ciągu formatu
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(1897,10): message : rozważ użycie elementu „%I64u” w ciągu formatu
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(1899,10): warning C4477: „printf”: ciąg formatu „%u” wymaga argumentu typu „unsigned int”, ale argument 1 ze zmienną liczbą argumentów ma typ „unsigned __int64”
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(1899,10): message : rozważ użycie elementu „%llu” w ciągu formatu
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(1899,10): message : rozważ użycie elementu „%I64u” w ciągu formatu
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(1925,28): warning C4477: „printf”: ciąg formatu „%u” wymaga argumentu typu „unsigned int”, ale argument 1 ze zmienną liczbą argumentów ma typ „unsigned __int64”
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(1925,28): message : rozważ użycie elementu „%llu” w ciągu formatu
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(1925,28): message : rozważ użycie elementu „%I64u” w ciągu formatu
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(1946,70): warning C4244: "argument": konwersja z "unsigned __int64" do "size_t", możliwa utrata danych
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(1947,56): warning C4244: "argument": konwersja z "unsigned __int64" do "size_t", możliwa utrata danych
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(2022,27): warning C4244: "=": konwersja z "unsigned __int64" do "unsigned int", możliwa utrata danych
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(2025,10): warning C4477: „printf”: ciąg formatu „%llu” wymaga argumentu typu „unsigned __int64”, ale argument 1 ze zmienną liczbą argumentów ma typ „unsigned int”
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(2025,10): message : rozważ użycie elementu „%u” w ciągu formatu
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(2025,10): message : rozważ użycie elementu „%Iu” w ciągu formatu
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(2025,10): message : rozważ użycie elementu „%I32u” w ciągu formatu
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(2032,18): warning C4244: "inicjowanie": konwersja z "unsigned __int64" do "unsigned int", możliwa utrata danych
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(2068,30): warning C4477: „printf”: ciąg formatu „%u” wymaga argumentu typu „unsigned int”, ale argument 1 ze zmienną liczbą argumentów ma typ „unsigned __int64”
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(2068,30): message : rozważ użycie elementu „%llu” w ciągu formatu
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(2068,30): message : rozważ użycie elementu „%I64u” w ciągu formatu
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(2090,70): warning C4244: "argument": konwersja z "unsigned __int64" do "size_t", możliwa utrata danych
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(2091,56): warning C4244: "argument": konwersja z "unsigned __int64" do "size_t", możliwa utrata danych
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(2092,62): warning C4244: "argument": konwersja z "unsigned __int64" do "size_t", możliwa utrata danych
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(2133,20): warning C4244: "=": konwersja z "unsigned __int64" do "unsigned int", możliwa utrata danych
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(2197,13): warning C4244: "inicjowanie": konwersja z "unsigned __int64" do "size_t", możliwa utrata danych
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(2204,1): warning C4244: "+=": konwersja z "unsigned __int64" do "size_t", możliwa utrata danych
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(2430,31): warning C4244: "argument": konwersja z "__int64" do "size_t", możliwa utrata danych
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(2433,31): warning C4244: "argument": konwersja z "__int64" do "size_t", możliwa utrata danych
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(2516,11): warning C4477: „wprintf”: ciąg formatu „%llu” wymaga argumentu typu „unsigned __int64”, ale argument 1 ze zmienną liczbą argumentów ma typ „size_t”
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(2516,11): message : rozważ użycie elementu „%zu” w ciągu formatu
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(2523,11): warning C4477: „wprintf”: ciąg formatu „%llu” wymaga argumentu typu „unsigned __int64”, ale argument 1 ze zmienną liczbą argumentów ma typ „size_t”
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(2523,11): message : rozważ użycie elementu „%zu” w ciągu formatu
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(2529,55): warning C4267: "=": konwersja z "size_t" do "unsigned char", możliwa utrata danych
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(2542,14): warning C4477: „wprintf”: ciąg formatu „%llu” wymaga argumentu typu „unsigned __int64”, ale argument 1 ze zmienną liczbą argumentów ma typ „size_t”
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(2542,14): message : rozważ użycie elementu „%zu” w ciągu formatu
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(2585,30): warning C4244: "argument": konwersja z "__int64" do "size_t", możliwa utrata danych
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(2588,47): warning C4244: "argument": konwersja z "__int64" do "size_t", możliwa utrata danych
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(2632,10): warning C4477: „wprintf”: ciąg formatu „%.*s” wymaga argumentu typu „int”, ale argument 1 ze zmienną liczbą argumentów ma typ „unsigned __int64”
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(2632,10): message : ten argument jest używany jako dokładność
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(2632,10): warning C4477: „wprintf”: ciąg formatu „%u” wymaga argumentu typu „unsigned int”, ale argument 3 ze zmienną liczbą argumentów ma typ „unsigned __int64”
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(2632,10): message : rozważ użycie elementu „%llu” w ciągu formatu
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(2632,10): message : rozważ użycie elementu „%I64u” w ciągu formatu
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(2632,10): warning C4477: „wprintf”: ciąg formatu „%u” wymaga argumentu typu „unsigned int”, ale argument 4 ze zmienną liczbą argumentów ma typ „unsigned __int64”
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(2632,10): message : rozważ użycie elementu „%llu” w ciągu formatu
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(2632,10): message : rozważ użycie elementu „%I64u” w ciągu formatu
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(2657,12): warning C4477: „wprintf”: ciąg formatu „%.*s” wymaga argumentu typu „int”, ale argument 1 ze zmienną liczbą argumentów ma typ „unsigned __int64”
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(2657,12): message : ten argument jest używany jako dokładność
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(2657,12): warning C4477: „wprintf”: ciąg formatu „%u” wymaga argumentu typu „unsigned int”, ale argument 3 ze zmienną liczbą argumentów ma typ „unsigned __int64”
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(2657,12): message : rozważ użycie elementu „%llu” w ciągu formatu
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(2657,12): message : rozważ użycie elementu „%I64u” w ciągu formatu
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(2658,11): warning C4477: „printf”: ciąg formatu „%.*s” wymaga argumentu typu „char *”, ale argument 2 ze zmienną liczbą argumentów ma typ „void *”
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(2658,11): message : ten argument jest używany na potrzeby specyfikatora konwersji
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(2658,11): warning C4477: „printf”: ciąg formatu „%.*s” wymaga argumentu typu „int”, ale argument 1 ze zmienną liczbą argumentów ma typ „unsigned __int64”
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(2658,11): message : ten argument jest używany jako dokładność
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(2667,12): warning C4477: „wprintf”: ciąg formatu „%.*s” wymaga argumentu typu „int”, ale argument 1 ze zmienną liczbą argumentów ma typ „unsigned __int64”
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(2667,12): message : ten argument jest używany jako dokładność
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(2667,12): warning C4477: „wprintf”: ciąg formatu „%u” wymaga argumentu typu „unsigned int”, ale argument 3 ze zmienną liczbą argumentów ma typ „unsigned __int64”
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(2667,12): message : rozważ użycie elementu „%llu” w ciągu formatu
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(2667,12): message : rozważ użycie elementu „%I64u” w ciągu formatu
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(2667,12): warning C4477: „wprintf”: ciąg formatu „%u” wymaga argumentu typu „unsigned int”, ale argument 4 ze zmienną liczbą argumentów ma typ „unsigned __int64”
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(2667,12): message : rozważ użycie elementu „%llu” w ciągu formatu
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(2667,12): message : rozważ użycie elementu „%I64u” w ciągu formatu
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\nXAF_console.cpp(160,12): warning C4477: „printf”: ciąg formatu „%llu” wymaga argumentu typu „unsigned __int64”, ale argument 1 ze zmienną liczbą argumentów ma typ „size_t”
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\nXAF_console.cpp(160,12): message : rozważ użycie elementu „%zu” w ciągu formatu
+  wstr.cpp
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\memalloc.cpp(83,10): warning C4477: „printf”: ciąg formatu „%llu” wymaga argumentu typu „unsigned __int64”, ale argument 1 ze zmienną liczbą argumentów ma typ „size_t”
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\memalloc.cpp(83,10): message : rozważ użycie elementu „%zu” w ciągu formatu
+  Generowanie kodu...
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(2456): warning C4715: "nc::export_xaf_file”: niewszystkie ścieżki kodu zwracają wartość
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(2606): warning C4715: "nc::folder_to_xaf”: niewszystkie ścieżki kodu zwracają wartość
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(1466): warning C4715: "nc::xaf::travel”: niewszystkie ścieżki kodu zwracają wartość
+C:\Users\Dawid\Desktop\NC++\nXAF_console\nXAF_console\xaf.cpp(1532): warning C4715: "nc::xaf::travel_cell”: niewszystkie ścieżki kodu zwracają wartość
+LINK : warning LNK4075: zignorowano opcję „/INCREMENTAL” z powodu określenia opcji „/FORCE”
+linked_list.obj : warning LNK4006: element "void * __cdecl memalloc(unsigned int)" (?memalloc@@YAPAXI@Z) jest już zdefiniowany w elemencie array.obj; druga definicja została zignorowana
+memalloc.obj : warning LNK4006: element "void * __cdecl memalloc(unsigned int)" (?memalloc@@YAPAXI@Z) jest już zdefiniowany w elemencie array.obj; druga definicja została zignorowana
+nXAF_console.obj : warning LNK4006: element "void * __cdecl memalloc(unsigned int)" (?memalloc@@YAPAXI@Z) jest już zdefiniowany w elemencie array.obj; druga definicja została zignorowana
+nXAF_console.obj : warning LNK4006: element "void __cdecl memfree(void *)" (?memfree@@YAXPAX@Z) jest już zdefiniowany w elemencie linked_list.obj; druga definicja została zignorowana
+nXAF_console.obj : warning LNK4006: element "struct nc_debug::ptr_arr nc_debug::allocs" (?allocs@nc_debug@@3Uptr_arr@1@A) jest już zdefiniowany w elemencie linked_list.obj; druga definicja została zignorowana
+wstr.obj : warning LNK4006: element "void * __cdecl memalloc(unsigned int)" (?memalloc@@YAPAXI@Z) jest już zdefiniowany w elemencie array.obj; druga definicja została zignorowana
+C:\Users\Dawid\Desktop\NC++\nXAF_console\Debug\nXAF_console.exe : warning LNK4088: obraz jest generowany ze względu na użycie opcji /FORCE; uruchomienie obrazu może nie być możliwe
+  nXAF_console.vcxproj -> C:\Users\Dawid\Desktop\NC++\nXAF_console\Debug\nXAF_console.exe

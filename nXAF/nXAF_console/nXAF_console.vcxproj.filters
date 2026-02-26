@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Pliki źródłowe">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Pliki nagłówkowe">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Pliki zasobów">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="nXAF_console.cpp">
+      <Filter>Pliki źródłowe</Filter>
+    </ClCompile>
+    <ClCompile Include="memalloc.cpp">
+      <Filter>Pliki źródłowe</Filter>
+    </ClCompile>
+    <ClCompile Include="basic_linked_list.cpp">
+      <Filter>Pliki źródłowe</Filter>
+    </ClCompile>
+    <ClCompile Include="array.cpp">
+      <Filter>Pliki źródłowe</Filter>
+    </ClCompile>
+    <ClCompile Include="wstr.cpp">
+      <Filter>Pliki źródłowe</Filter>
+    </ClCompile>
+    <ClCompile Include="textures.cpp">
+      <Filter>Pliki źródłowe</Filter>
+    </ClCompile>
+    <ClCompile Include="compressed_file.cpp">
+      <Filter>Pliki źródłowe</Filter>
+    </ClCompile>
+    <ClCompile Include="xaf.cpp">
+      <Filter>Pliki źródłowe</Filter>
+    </ClCompile>
+    <ClCompile Include="LinkedList.cpp">
+      <Filter>Pliki źródłowe</Filter>
+    </ClCompile>
+    <ClCompile Include="QuickQueue.cpp">
+      <Filter>Pliki źródłowe</Filter>
+    </ClCompile>
+    <ClCompile Include="ginterface.cpp">
+      <Filter>Pliki źródłowe</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="memalloc.h">
+      <Filter>Pliki źródłowe</Filter>
+    </ClInclude>
+    <ClInclude Include="basic_linked_list.h">
+      <Filter>Pliki źródłowe</Filter>
+    </ClInclude>
+    <ClInclude Include="array.h">
+      <Filter>Pliki źródłowe</Filter>
+    </ClInclude>
+    <ClInclude Include="wstr.h">
+      <Filter>Pliki źródłowe</Filter>
+    </ClInclude>
+    <ClInclude Include="textures.h">
+      <Filter>Pliki źródłowe</Filter>
+    </ClInclude>
+    <ClInclude Include="xaf.h">
+      <Filter>Pliki źródłowe</Filter>
+    </ClInclude>
+    <ClInclude Include="LinkedListC.h">
+      <Filter>Pliki źródłowe</Filter>
+    </ClInclude>
+    <ClInclude Include="LinkedList.h">
+      <Filter>Pliki źródłowe</Filter>
+    </ClInclude>
+    <ClInclude Include="QuickQueue.h">
+      <Filter>Pliki źródłowe</Filter>
+    </ClInclude>
+    <ClInclude Include="ginterface.h">
+      <Filter>Pliki źródłowe</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

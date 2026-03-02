@@ -55,7 +55,7 @@ int SDL_main(int argc, char** argv){
      
      argc--;
      argv++;
-     xaf_reader2* arc_arr = (xaf_reader2*)mecalloc(sizeof(xaf_reader2) * argc);
+     xaf_reader2* arc_arr = (xaf_reader2*)memalloc(sizeof(xaf_reader2) * argc);
 
 
 
